@@ -1,0 +1,12 @@
+import turtle
+turtle.shape("turtle")
+turtle.setup(500, 500)
+turtle.penup()
+turtle.Screen().bgcolor("#FF9933")
+turtle.color("#00FFAE")
+turtle.pencolor("#2CB669")
+turtle.turtlesize(3, 3, 2)
+turtle.turtlesize(outline=3)
+turtle.left(90)
+turtle.forward(200)
+print("DAD")

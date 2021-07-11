@@ -1,0 +1,13 @@
+import turtle
+pen = turtle.Turtle()
+pen.color("blue")
+pen.pensize(1)
+pen.forward(200)
+pen.left(90)
+pen.forward(200)
+pen.left(90)
+pen.forward(200)
+pen.left(90)
+pen.forward(200)
+pen.hideturtle()
+print("DAD")

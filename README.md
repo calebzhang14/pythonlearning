@@ -1,2 +1,2 @@
 # pythonlearning
-# just Caleb's learning code
+# Caleb is learning
